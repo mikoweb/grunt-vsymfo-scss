@@ -1,0 +1,21 @@
+{
+    "name": "grunt-vsymfo-scss",
+    "author": "Rafał Mikołajun",
+    "license": "GPLv3",
+    "version": "0.0.1",
+    "keywords": [
+        "vsymfo"
+    ],
+    "main": "lib/scss.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikoweb/grunt-vsymfo-scss.git"
+    },
+    "engines": {
+        "node": ">0.12.0"
+    },
+    "dependencies": {
+        "grunt": "~1.0",
+        "grunt-contrib-sass": "~1.0"
+    }
+}
