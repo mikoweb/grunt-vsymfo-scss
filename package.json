@@ -1,8 +1,8 @@
 {
     "name": "grunt-vsymfo-scss",
     "author": "Rafał Mikołajun",
-    "license": "GPLv3",
-    "version": "0.0.5",
+    "license": "LGPL-3.0",
+    "version": "0.0.6",
     "keywords": [
         "vsymfo"
     ],
@@ -20,7 +20,7 @@
     },
     "files": [
         "lib",
-        "LICENSE.txt",
+        "LICENSE",
         "package.json"
     ]
 }
